@@ -1,0 +1,8 @@
+# Full API Endpoints List - Library Management System
+| Method | Endpoint | Description |
+|--------|----------|-------------|
+| POST | /api/books | Add new book record |
+| GET | /api/books | Get all books list |
+| GET | /api/books/{id} | Get single book by id |
+| POST | /api/borrow | Borrow a book |
+| POST | /api/return | Return a borrowed book |
